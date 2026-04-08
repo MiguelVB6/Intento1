@@ -1,0 +1,60 @@
+body {
+  background-image: url(cafe_image.png);
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat;
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.Header {
+  text-align: center;
+  color: white;
+  font-size: 80px;
+
+  background-image: 
+    url("https://static.wixstatic.com/media/3962bf_f26ec61b5ab843258c4fcc7795bac877~mv2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  padding: 60px 20px;
+}
+.Content1 {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  padding: 20px;
+}
+
+.Content2 {
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  padding: 20px;
+}
+.Image1,
+.Image2 {
+  text-align: center;
+  padding: 20px;
+}
+img {
+  width: 600px;
+  max-width: 90%;
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.Cat_button_style{
+  display: block;
+  margin: 20px auto;
+  padding: 15px 30px;
+  font-size: 20px;
+  background-color:limegreen;
+}
+
+.Button_style{
+  display: block;
+  margin: 20px auto;
+}
